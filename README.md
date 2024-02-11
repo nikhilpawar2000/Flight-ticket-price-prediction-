@@ -1,1 +1,1 @@
-Flight Ticket Prediction Project
+Flight Ticket Price Prediction Project
